@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Justin Lex-Hammarskjöld, a computer nerd and an open-source and self-hosting evangelist.
+I'm Justin Lex-Hammarskjöld, a computer nerd and an open-source+self-hosting evangelist.
 
 This is my Github account for work and other open-source projects.
 
