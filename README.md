@@ -6,9 +6,7 @@ This is my Github account for work and other open-source projects.
 
 I'm in the process of migrating all of the active projects I own to [Codeberg](https://codeberg.org/jlh), an open-source alternative to Github.
 
-At my day job, I work as a DevOps engineer for Unraid, where I'm working with an amazing team to build world-class digital infrastructure. 
-
-Note that all code hosted here and any opinions I express are my own, not the views of Unraid or any of my colleagues there.
+Note that all code hosted here and any opinions I express are my own.
 
 <!--
 **JustinLex/JustinLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
