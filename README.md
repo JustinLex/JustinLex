@@ -6,7 +6,7 @@ This is my Github account for open-source contributions.
 
 If you want to see some of my projects, check out my [Codeberg account](https://codeberg.org/jlh). Codeberg is an open-source alternative to Github.
 
-If you want to learn more about me or my consulting firm, check out the [LocalHop Technologies website](https://localhop.eu/~jlh).
+If you want to learn more about me or my consulting availability, check out [Redpill Linpro](https://www.redpill-linpro.com/en) and [LocalHop Technologies](https://localhop.eu/~jlh).
 
 <!--
 **JustinLex/JustinLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
